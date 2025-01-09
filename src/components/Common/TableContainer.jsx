@@ -122,8 +122,8 @@ const TableContainer = ({
   };
 
   const buttonStyle = {
-    backgroundColor: "#E50000",
-    borderColor: "#E50000",
+    backgroundColor: "#8243D9",
+    borderColor: "#8243D9",
     color: "#fff",
   };
 
