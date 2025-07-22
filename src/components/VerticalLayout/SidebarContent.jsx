@@ -168,31 +168,7 @@ const SidebarContent = (props) => {
             <li>
               <Link to="/payments">
                 <i className="bx bx-credit-card"></i>
-                <span>{props.t("Payments")}</span>
-              </Link>
-            </li>
-            <li>
-              <Link to="/earnings">
-                <i className="bx bx-wallet"></i>
-                <span>{props.t("Earnings")}</span>
-              </Link>
-            </li>
-            <li>
-              <Link to="/call-history">
-                <i className="bx bx-phone-call"></i>
-                <span>{props.t("Call History")}</span>
-              </Link>
-            </li>
-            <li>
-              <Link to="/settlement">
-                <i className="bx bx-money"></i>
-                <span>{props.t("Settlement")}</span>
-              </Link>
-            </li>
-            <li>
-              <Link to="/price-details">
-                <i className="bx bx-dollar"></i>
-                <span>{props.t("Price")}</span>
+                <span>{props.t("A")}</span>
               </Link>
             </li>
           </ul>
